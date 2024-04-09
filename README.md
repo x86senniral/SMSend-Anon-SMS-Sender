@@ -1,10 +1,12 @@
 ## SMSend V2
                                     Anonymous SMS Sender 
 
-                                Linux, Windows, Mac, Termux
+                                Linux, Mac, Termux
 
 # SMSend-Anon-SMS-Sender
 SMSend is a Python tool for sending SMS messages anonymously and securely through VPN connections. It offers single and bulk SMS sending capabilities, where each message is routed through a separate VPN, ensuring privacy and bypassing geo-restrictions. 
+
+- Windows version will soon be available
 
 ## What's New & Features
 - Completely Free
