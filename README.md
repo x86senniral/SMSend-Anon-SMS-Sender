@@ -44,6 +44,7 @@ cd SMSend-Anon-SMS-Sender && chmod +x setup.sh
 - Finally, run the tool, and when asked for the vpn PATH directory, simply paste the directory of where your `.ovpn` configs are located. (e.g: `/home/user/somedir/vpn_configs`)
 - Then when asked for the filename with phone numbers simply put `phones.txt`
 - Final step, when asked for the vpn credential file name, simply put `auth.txt`, and that's it!
+- NOTE: **Do NOT touch the vpn_auth.txt, that file is already preconfigured**
 
 ## Contributions
 Updates and contributions are welcome, simply perform a pull request.
