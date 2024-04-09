@@ -22,7 +22,7 @@ If you're on linux run the following commands. (Assuming a Debian Based Distribu
 ## For Linux
 ```
 git clone https://github.com/sytaxus/SMSend-Anon-SMS-Sender
-cd SMSend-Anon-SMS-Sender && chmod +x setup.sh
+cd SMSend-Anon-SMS-Sender && chmod +x setup.sh && ./setup.sh
 ```
 if the tool doesn't start then run:
 ```
@@ -34,7 +34,7 @@ Simply run:
 ```
 pkg install git && python
 git clone https://github.com/sytaxus/SMSend-Anon-SMS-Sender
-cd SMSend-Anon-SMS-Sender && chmod +x setup.sh
+cd SMSend-Anon-SMS-Sender && chmod +x setup.sh && ./setup.sh
 ```
 
 ## How to Multi SMS & Configure VPN
