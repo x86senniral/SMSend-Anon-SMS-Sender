@@ -28,6 +28,7 @@ if the tool doesn't start then run:
 ```
 python smsend.python
 ```
+- When you run the `setup.sh` you will be asked if you would like to save your openvpn or vpn login informations, select `y` or `yes`, else simply type `n` to ignore, assuming you're not using the multi-sms utlity or have already done the setup in `auth.txt` manually.
 
 ## For Termux
 Simply run:
