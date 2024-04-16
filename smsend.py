@@ -168,7 +168,7 @@ def Begin():
                 request_sms(full_number,message)
         elif available_choices == '2':
             vpn_directory = input('Enter PATH to VPN config files directory: ')
-            file_name = input('Enter file name with phone numbers. (ONE NUMBER PER LINE INCLUDING PREFIX, EX: +15555555555): ')
+            file_name = input('Enter file name with phone numbers (ONE NUMBER PER LINE INCLUDING PREFIX, EX: +15555555555): ')
             multi_sms(vpn_directory,file_name,message)
             
     except Exception as e:
